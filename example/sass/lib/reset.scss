@@ -1,0 +1,7 @@
+@import 'lib/base';
+a {
+  color: #333;
+  &:hover {
+    text-decoration: none;
+  }
+}
